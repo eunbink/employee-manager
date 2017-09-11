@@ -1,4 +1,8 @@
-export default class Employee {
+
+
+
+
+export default class Employeeß{
   constructor(id, name, phone, title) {
     this.id = id;
     this.name = name;
